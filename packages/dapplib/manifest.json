@@ -1,0 +1,13 @@
+{
+    "name": "MATIC Scraper",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/file_storage/ipfs": true,
+        "/category/collection/entity": true,
+        "/category/file_storage/ipfs/mode": "single"
+    }
+}
